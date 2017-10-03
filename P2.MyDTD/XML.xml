@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mymindmap>Карта актуальных знаний
+<mymindmap>Карта актуальных знаний</mymindmap>
 <mymindmapcompetencies>
  <compname>ProgrammingLanguages</compname>
 <competency in="С++" value="very good">
@@ -21,4 +21,4 @@
 <competency in="SQL" value="good">
 
 </mymindmapcompetencies>
-</mymindmap>
+
