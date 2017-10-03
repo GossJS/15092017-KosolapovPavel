@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mymindmap>Карта актуальных знаний
 <mymindmapcompetencies>
- <prlangcomp>ProgrammingLanguages</prlangcomp>
+ <compname>ProgrammingLanguages</compname>
 <competency in="С++" value="very good">
 
-<grcomp>Graphic</grcomp>
+<compname>Graphic</compname>
 <competency in="Photoshop" value="medium">
 <competency in="СorewDraw" value="good">
 
-<wblcomp>Web-BasedLearning</wblcomp>
+<compname>Web-BasedLearning</compname>
 <competency in="CMS" value="good">
 <competency in="LMS" value="almost perfect">
 
 
-<wprlangcomp>WebProgrammingLanguages</wprlangcomp>
+<compname>WebProgrammingLanguages</compname>
 <competency in="HTML" value="not bad">
 <competency in="CSS" value="wrose, but not bad">
 
-<dbcomp>DataBase</dbcomp>
+<compname>DataBase</compname>
 <competency in="SQL" value="good">
 
 </mymindmapcompetencies>
