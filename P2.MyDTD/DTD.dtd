@@ -1,0 +1,4 @@
+<!ELEMENT mymindmap  (mymindmapcompetencies)>
+<!ELEMENT mymindmapcompetencies   (compname,competency)>
+<!ELEMENT competency      (#PCDATA)>
+<!ELEMENT compname       (#PCDATA)>
