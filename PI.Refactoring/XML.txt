@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE table PUBLIC "LITVINOV.K.V." "http://kodaktor.ru/j/dtd_c02a4">
+<!DOCTYPE table PUBLIC "...." "...dtd">
 
 
 <table>
