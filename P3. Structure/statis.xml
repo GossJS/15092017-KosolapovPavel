@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE statistics PUBLIC "KosolapovPavel" "http://kodaktor.ru/j/dtd_81b54">
+
+<statistics>
+
+<h>Самый частый IP-адрес:</h>
+<ip addr="077.234.203.101" visits="12"></ip>
+
+<h>Посещения со стационарных платформ:</h>
+<list>
+	<os title = "Windows" visits = "87"></os>
+	<os title = "Linux" visits = "8"></os>
+	<os title = "MacOS" visits = "6"></os>
+</list>
+
+<h>Посещения с мобильных платформ:</h>
+<list>
+	<mobile title = "iPhone" visits = "5"></mobile>
+	<mobile title = "Android" visits = "10"></mobile>
+</list>
+
+<h>Наиболее частые адреса:</h>
+<ips>
+	<ip addr="077.234.203.101" frequency="12"></ip>
+	<ip addr="005.144.096.251" frequency="11"></ip>
+	<ip addr="081.222.086.058" frequency="6"></ip>
+	<ip addr="005.164.066.173" frequency="4"></ip>
+	<ip addr="094.019.018.060" frequency="4"></ip>
+	<ip addr="091.122.189.004" frequency="4"></ip>
+</ips>
+
+</statistics>
